@@ -1,0 +1,1 @@
+/home/dtheriault3/Development/dxdt/rofi-dxdt.sh
